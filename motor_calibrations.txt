@@ -1,3 +1,5 @@
+TEST
+
 MTS25-Z8
 34304 count per mm
 767367.49 (mm/s)

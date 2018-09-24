@@ -3,7 +3,7 @@
 [22, "Benchtop NanoTrak", "BNT001"],
 [25, "Legacy single channel mini stepper driver", "BMS001"],
 [26, "K-Cube stepper driver", "KST101"],
-[27, "K-Cube brushed DC servo driver", "KDCT101"],
+[27, "K-Cube brushed DC servo driver", "KDC101"],
 [28, "K-Cube brushless DC servo driver", "KBD101"],
 [29, "K-Cube piezo driver", "KPZ101"],
 [30, "Legacy dual channel stepper driver", "BSC0"],
